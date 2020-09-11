@@ -1,0 +1,11 @@
+
+v
+java:S3012;"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Ê³ˆ’8ÛñŞ™¶.
+j	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(˜²ûøÿÿÿÿ8¾ºú˜¶.
+Z	java:S106o"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ8¦£š¶.
+u
+java:S3012G"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(âïÉ8Ë¤”š¶.
+U	java:S106r"9Replace this use of System.out or System.err by a logger.(¢ïÿ®8è•¸š¶.
+U	java:S106s"9Replace this use of System.out or System.err by a logger.(¾ï¡›8è•¸š¶.
+Z	java:S106t"9Replace this use of System.out or System.err by a logger.(²²áİøÿÿÿÿ8è•¸š¶.
+Z	java:S106u"9Replace this use of System.out or System.err by a logger.(ÕÒˆ«úÿÿÿÿ8è•¸š¶.

@@ -1,0 +1,9 @@
+
+o
+java:S3776g"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ù±∏Ä8®»ø›∑.
+G
+java:S1144ò")Remove this unused private "swap" method.(à‰÷√8≠µ”›∑.
+m
+java:S1206T"PThis class overrides "equals()" and should therefore also override "hashCode()".(∞—µò8®»ø›∑.
+_
+java:S1126æ"AReplace this if-then-else statement by a single return statement.(É™˙†8·„÷›∑.
